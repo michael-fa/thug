@@ -3,3 +3,9 @@ Either way I may publish some code that will have great usage for others, right 
 inside gamefile / process and could fasten it up HIGHLY by using this.
 
 Tho I did not publish anything, I made some internal progress with my modloader-api.
+
+
+
+RunMeNow
+--------
+It appears that there's a command line scripting qb loaded by Mike (the lead dev I think).
