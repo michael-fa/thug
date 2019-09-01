@@ -8,4 +8,5 @@ Tho I did not publish anything, I made some internal progress with my modloader-
 
 RunMeNow
 --------
-It appears that there's a command line scripting qb loaded by Mike (the lead dev I think).
+It appears that there's a command line scripting qb gernally loaded by actv. dev Mike (the lead dev I think).
+He uses this for debugging purposes.
