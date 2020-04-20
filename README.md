@@ -4,9 +4,3 @@ inside gamefile / process and could fasten it up HIGHLY by using this.
 
 Tho I did not publish anything, I made some internal progress with my modloader-api.
 
-
-
-RunMeNow
---------
-It appears that there's a command line scripting qb gernally loaded by actv. dev Mike.
-He uses this for debugging purposes.
